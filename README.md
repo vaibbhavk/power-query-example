@@ -1,5 +1,11 @@
-### Power Query Example
+# Power Query Example
 
-Performed ETL (Extract, Transform and Load) using these two Excel data sources:
-    - From web
-    - From local .xlsx file
+### ETL (Extract, Transform, Load) Process
+
+- Extracted data from two sources:
+  - 🌐 Web
+  - 📂 Local `.xlsx` file
+
+- Transformed the data using `Power Query Editor`.
+
+- Loaded the data into an Excel spreadsheet. 📊
